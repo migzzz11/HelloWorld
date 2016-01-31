@@ -1,0 +1,10 @@
+C:\Users\-MHiGz\Documents\Visual Studio 2010\Projects\HelloWorldDBZ\HelloWorldDBZ\bin\Debug\HelloWorldDBZ.exe
+C:\Users\-MHiGz\Documents\Visual Studio 2010\Projects\HelloWorldDBZ\HelloWorldDBZ\bin\Debug\HelloWorldDBZ.pdb
+C:\Users\-MHiGz\Documents\Visual Studio 2010\Projects\HelloWorldDBZ\HelloWorldDBZ\bin\Debug\HelloWorldDBZ.xml
+C:\Users\-MHiGz\Documents\Visual Studio 2010\Projects\HelloWorldDBZ\HelloWorldDBZ\obj\x86\Debug\HelloWorldDBZ.frm_main.resources
+C:\Users\-MHiGz\Documents\Visual Studio 2010\Projects\HelloWorldDBZ\HelloWorldDBZ\obj\x86\Debug\HelloWorldDBZ.frm_shenron.resources
+C:\Users\-MHiGz\Documents\Visual Studio 2010\Projects\HelloWorldDBZ\HelloWorldDBZ\obj\x86\Debug\HelloWorldDBZ.Resources.resources
+C:\Users\-MHiGz\Documents\Visual Studio 2010\Projects\HelloWorldDBZ\HelloWorldDBZ\obj\x86\Debug\HelloWorldDBZ.vbproj.GenerateResource.Cache
+C:\Users\-MHiGz\Documents\Visual Studio 2010\Projects\HelloWorldDBZ\HelloWorldDBZ\obj\x86\Debug\HelloWorldDBZ.exe
+C:\Users\-MHiGz\Documents\Visual Studio 2010\Projects\HelloWorldDBZ\HelloWorldDBZ\obj\x86\Debug\HelloWorldDBZ.xml
+C:\Users\-MHiGz\Documents\Visual Studio 2010\Projects\HelloWorldDBZ\HelloWorldDBZ\obj\x86\Debug\HelloWorldDBZ.pdb
